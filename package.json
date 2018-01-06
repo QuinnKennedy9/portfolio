@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinnKennedy9/portfolio.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "professional"
+  ],
+  "author": "Quinn Kennedy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinnKennedy9/portfolio/issues"
+  },
+  "homepage": "https://github.com/QuinnKennedy9/portfolio#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
